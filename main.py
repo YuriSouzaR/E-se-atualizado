@@ -67,7 +67,7 @@ if menu == '1':
             escrever('Por enquanto to progrmando o SIM')
         else:
              print('ERRO Escolha sim ou nao')
-        
+             exit()
 elif menu == '2':
     print('!!AINDA TRABALHANDO NISSO!!')
     exit()
